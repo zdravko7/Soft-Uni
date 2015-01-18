@@ -1,0 +1,6 @@
+D:\Programming\Projects\CSharp Math\SomeFactorial\bin\Debug\SomeFactorial.exe.config
+D:\Programming\Projects\CSharp Math\SomeFactorial\bin\Debug\SomeFactorial.exe
+D:\Programming\Projects\CSharp Math\SomeFactorial\bin\Debug\SomeFactorial.pdb
+D:\Programming\Projects\CSharp Math\SomeFactorial\obj\Debug\SomeFactorial.exe
+D:\Programming\Projects\CSharp Math\SomeFactorial\obj\Debug\SomeFactorial.pdb
+D:\Programming\Projects\CSharp Math\SomeFactorial\obj\Debug\3. SomeFactorial.csprojResolveAssemblyReference.cache

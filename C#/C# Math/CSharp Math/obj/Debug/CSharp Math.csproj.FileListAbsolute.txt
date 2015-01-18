@@ -1,0 +1,6 @@
+D:\Programming\Projects\CSharp Math\CSharp Math\bin\Debug\CSharp Math.exe.config
+D:\Programming\Projects\CSharp Math\CSharp Math\bin\Debug\CSharp Math.exe
+D:\Programming\Projects\CSharp Math\CSharp Math\bin\Debug\CSharp Math.pdb
+D:\Programming\Projects\CSharp Math\CSharp Math\obj\Debug\CSharp Math.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\CSharp Math\CSharp Math\obj\Debug\CSharp Math.exe
+D:\Programming\Projects\CSharp Math\CSharp Math\obj\Debug\CSharp Math.pdb

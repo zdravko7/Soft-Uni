@@ -1,0 +1,6 @@
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe.config
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.pdb
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.exe
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.pdb
+D:\Programming\Projects\CSharp Math\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.csprojResolveAssemblyReference.cache

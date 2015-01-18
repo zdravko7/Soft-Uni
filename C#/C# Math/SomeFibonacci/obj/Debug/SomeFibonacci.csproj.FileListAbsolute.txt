@@ -1,0 +1,5 @@
+D:\Programming\Projects\CSharp Math\SomeFibonacci\bin\Debug\SomeFibonacci.exe.config
+D:\Programming\Projects\CSharp Math\SomeFibonacci\bin\Debug\SomeFibonacci.exe
+D:\Programming\Projects\CSharp Math\SomeFibonacci\bin\Debug\SomeFibonacci.pdb
+D:\Programming\Projects\CSharp Math\SomeFibonacci\obj\Debug\SomeFibonacci.exe
+D:\Programming\Projects\CSharp Math\SomeFibonacci\obj\Debug\SomeFibonacci.pdb

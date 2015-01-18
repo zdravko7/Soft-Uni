@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. SomePrimes", "CSharp Math\1. SomePrimes.csproj", "{9AB4A7A2-DCAD-4BF7-8AF6-7D5012E656B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. SomeFibonacci", "SomeFibonacci\2. SomeFibonacci.csproj", "{828B1FB2-AB6C-4460-AF82-83A3885976FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. SomeFactorial", "SomeFactorial\3. SomeFactorial.csproj", "{C4574334-8E3C-4911-B4FD-2B6AE85C2D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateHypotenuse", "CalculateHypotenuse\CalculateHypotenuse.csproj", "{AF397785-26E2-4308-9ED6-6F1F4390C029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB4A7A2-DCAD-4BF7-8AF6-7D5012E656B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB4A7A2-DCAD-4BF7-8AF6-7D5012E656B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB4A7A2-DCAD-4BF7-8AF6-7D5012E656B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB4A7A2-DCAD-4BF7-8AF6-7D5012E656B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828B1FB2-AB6C-4460-AF82-83A3885976FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828B1FB2-AB6C-4460-AF82-83A3885976FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828B1FB2-AB6C-4460-AF82-83A3885976FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828B1FB2-AB6C-4460-AF82-83A3885976FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4574334-8E3C-4911-B4FD-2B6AE85C2D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4574334-8E3C-4911-B4FD-2B6AE85C2D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4574334-8E3C-4911-B4FD-2B6AE85C2D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4574334-8E3C-4911-B4FD-2B6AE85C2D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF397785-26E2-4308-9ED6-6F1F4390C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF397785-26E2-4308-9ED6-6F1F4390C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF397785-26E2-4308-9ED6-6F1F4390C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF397785-26E2-4308-9ED6-6F1F4390C029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
