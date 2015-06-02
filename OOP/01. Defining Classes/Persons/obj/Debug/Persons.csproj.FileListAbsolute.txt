@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\bin\Debug\Persons.exe.config
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\bin\Debug\Persons.exe
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\bin\Debug\Persons.pdb
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\obj\Debug\Persons.exe
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Persons\obj\Debug\Persons.pdb

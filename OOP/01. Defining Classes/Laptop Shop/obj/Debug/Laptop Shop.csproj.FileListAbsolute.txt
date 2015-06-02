@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.exe.config
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.exe
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.pdb
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.exe
+E:\Projects\C#\Soft Uni\Homework 1. Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.pdb
