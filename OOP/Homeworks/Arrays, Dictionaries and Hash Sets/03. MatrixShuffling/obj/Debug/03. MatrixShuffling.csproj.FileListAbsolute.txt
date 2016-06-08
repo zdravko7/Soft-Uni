@@ -1,0 +1,5 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\03. MatrixShuffling\bin\Debug\_03.MatrixShuffling.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\03. MatrixShuffling\bin\Debug\_03.MatrixShuffling.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\03. MatrixShuffling\bin\Debug\_03.MatrixShuffling.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\03. MatrixShuffling\obj\Debug\_03.MatrixShuffling.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\03. MatrixShuffling\obj\Debug\_03.MatrixShuffling.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jamal\Desktop\Buhtigfehlerverfolgungssystem\buhtig\bin\Debug\buhtig.exe.config
+E:\Projects\SoftUni\High-Quality Code\buhtig\bin\Debug\buhtig.exe.config
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\bin\Debug\buhtig.exe.config
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\bin\Debug\buhtig.exe
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\bin\Debug\buhtig.pdb
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\bin\Debug\PowerCollections.dll
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\bin\Debug\PowerCollections.xml
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\obj\Debug\buhtig.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\obj\Debug\buhtig.exe
+E:\Projects\SoftUni\High-Quality Code\Exam Preparation\June 2015\buhtig\obj\Debug\buhtig.pdb

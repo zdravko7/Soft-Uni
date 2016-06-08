@@ -1,0 +1,6 @@
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\bin\Debug\Exam 20 December 2015.exe.config
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\bin\Debug\Exam 20 December 2015.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\bin\Debug\Exam 20 December 2015.pdb
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\obj\Debug\Exam 20 December 2015.csprojResolveAssemblyReference.cache
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\obj\Debug\Exam 20 December 2015.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\Exam 20 December 2015\obj\Debug\Exam 20 December 2015.pdb

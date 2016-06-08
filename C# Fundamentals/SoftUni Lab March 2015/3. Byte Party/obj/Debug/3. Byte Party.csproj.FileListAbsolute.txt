@@ -1,0 +1,5 @@
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\3. Byte Party\bin\Debug\_3.Byte_Party.exe.config
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\3. Byte Party\bin\Debug\_3.Byte_Party.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\3. Byte Party\bin\Debug\_3.Byte_Party.pdb
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\3. Byte Party\obj\Debug\_3.Byte_Party.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\3. Byte Party\obj\Debug\_3.Byte_Party.pdb

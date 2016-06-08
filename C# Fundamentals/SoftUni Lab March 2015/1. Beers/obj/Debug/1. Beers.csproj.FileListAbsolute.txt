@@ -1,0 +1,6 @@
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\obj\Debug\1. Beers.csprojResolveAssemblyReference.cache
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\bin\Debug\_1.Beers.exe.config
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\bin\Debug\_1.Beers.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\bin\Debug\_1.Beers.pdb
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\obj\Debug\_1.Beers.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\1. Beers\obj\Debug\_1.Beers.pdb

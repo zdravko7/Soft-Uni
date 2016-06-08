@@ -1,0 +1,10 @@
+{
+  "name": "SortTable",
+  "version": "0.0.0",
+  "description": "SortTable",
+  "main": "app.js",
+  "author": {
+    "name": "Dude",
+    "email": ""
+  }
+}

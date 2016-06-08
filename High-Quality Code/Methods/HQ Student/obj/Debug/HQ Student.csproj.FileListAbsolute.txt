@@ -1,0 +1,6 @@
+E:\Projects\High-Quality Code\Methods\HQ Student\obj\Debug\HQ Student.csprojResolveAssemblyReference.cache
+E:\Projects\High-Quality Code\Methods\HQ Student\bin\Debug\HQ Student.exe.config
+E:\Projects\High-Quality Code\Methods\HQ Student\bin\Debug\HQ Student.exe
+E:\Projects\High-Quality Code\Methods\HQ Student\bin\Debug\HQ Student.pdb
+E:\Projects\High-Quality Code\Methods\HQ Student\obj\Debug\HQ Student.exe
+E:\Projects\High-Quality Code\Methods\HQ Student\obj\Debug\HQ Student.pdb

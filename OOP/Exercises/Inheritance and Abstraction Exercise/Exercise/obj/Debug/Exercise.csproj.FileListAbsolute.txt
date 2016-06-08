@@ -1,0 +1,6 @@
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\bin\Debug\Exercise.exe.config
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\bin\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\bin\Debug\Exercise.pdb
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\obj\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\obj\Debug\Exercise.pdb
+E:\Projects\OOP\Exercises\Inheritance and Abstraction Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache

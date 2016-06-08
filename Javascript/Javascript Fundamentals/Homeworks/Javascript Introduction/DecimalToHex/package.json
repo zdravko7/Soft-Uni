@@ -1,0 +1,10 @@
+{
+  "name": "DecimalToHex",
+  "version": "0.0.0",
+  "description": "DecimalToHex",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

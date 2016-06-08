@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\bin\Debug\PlusRemove.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\bin\Debug\PlusRemove.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\bin\Debug\PlusRemove.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\obj\Debug\PlusRemove.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\obj\Debug\PlusRemove.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\PlusRemove\obj\Debug\PlusRemove.csprojResolveAssemblyReference.cache

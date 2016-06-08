@@ -1,0 +1,6 @@
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\obj\Debug\01. TextBombardment.csprojResolveAssemblyReference.cache
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\bin\Debug\_01.TextBombardment.exe.config
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\bin\Debug\_01.TextBombardment.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\bin\Debug\_01.TextBombardment.pdb
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\obj\Debug\_01.TextBombardment.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\01. TextBombardment\obj\Debug\_01.TextBombardment.pdb

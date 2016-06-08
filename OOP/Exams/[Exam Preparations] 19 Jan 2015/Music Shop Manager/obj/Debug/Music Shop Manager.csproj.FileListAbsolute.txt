@@ -1,0 +1,6 @@
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\bin\Debug\Music Shop Manager.exe.config
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\obj\Debug\Music Shop Manager.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\bin\Debug\Music Shop Manager.exe
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\bin\Debug\Music Shop Manager.pdb
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\obj\Debug\Music Shop Manager.exe
+E:\Projects\OOP\[Exam Preparations] 19 Jan 2015\Music Shop Manager\obj\Debug\Music Shop Manager.pdb

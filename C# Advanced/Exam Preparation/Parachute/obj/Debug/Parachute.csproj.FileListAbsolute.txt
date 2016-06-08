@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\bin\Debug\Parachute.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\bin\Debug\Parachute.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\bin\Debug\Parachute.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\obj\Debug\Parachute.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\obj\Debug\Parachute.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache

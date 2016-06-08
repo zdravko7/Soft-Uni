@@ -1,0 +1,6 @@
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\bin\Debug\Assertions.exe.config
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\bin\Debug\Assertions.exe
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\bin\Debug\Assertions.pdb
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\obj\Debug\Assertions.exe
+E:\Projects\High-Quality Code\Defensive Programming\Assertions\obj\Debug\Assertions.pdb

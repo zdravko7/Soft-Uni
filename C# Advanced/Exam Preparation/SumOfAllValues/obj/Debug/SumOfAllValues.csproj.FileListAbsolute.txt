@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\bin\Debug\SumOfAllValues.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.pdb

@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\bin\Debug\Pythagorean Numbers.exe.config
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\bin\Debug\Pythagorean Numbers.exe
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\bin\Debug\Pythagorean Numbers.pdb
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\obj\Debug\Pythagorean Numbers.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\obj\Debug\Pythagorean Numbers.exe
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\Pythagorean Numbers\obj\Debug\Pythagorean Numbers.pdb

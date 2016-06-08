@@ -1,0 +1,6 @@
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\bin\Debug\High-Quality Methods.exe.config
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\obj\Debug\High-Quality Methods.csprojResolveAssemblyReference.cache
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\bin\Debug\High-Quality Methods.exe
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\bin\Debug\High-Quality Methods.pdb
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\obj\Debug\High-Quality Methods.exe
+E:\Projects\High-Quality Code\Methods\High-Quality Methods\obj\Debug\High-Quality Methods.pdb

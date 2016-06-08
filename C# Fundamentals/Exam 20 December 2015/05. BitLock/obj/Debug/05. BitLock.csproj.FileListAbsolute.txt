@@ -1,0 +1,6 @@
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\bin\Debug\_05.BitLock.exe.config
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\obj\Debug\05. BitLock.csprojResolveAssemblyReference.cache
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\bin\Debug\_05.BitLock.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\bin\Debug\_05.BitLock.pdb
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\obj\Debug\_05.BitLock.exe
+c:\users\dude\documents\visual studio 2012\Projects\Exam 20 December 2015\05. BitLock\obj\Debug\_05.BitLock.pdb

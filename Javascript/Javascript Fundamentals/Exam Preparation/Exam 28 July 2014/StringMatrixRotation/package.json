@@ -1,0 +1,10 @@
+{
+  "name": "StringMatrixRotation",
+  "version": "0.0.0",
+  "description": "StringMatrixRotation",
+  "main": "app.js",
+  "author": {
+    "name": "Dude",
+    "email": ""
+  }
+}

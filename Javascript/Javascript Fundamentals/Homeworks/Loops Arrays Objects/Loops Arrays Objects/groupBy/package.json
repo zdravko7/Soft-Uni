@@ -1,0 +1,10 @@
+{
+  "name": "groupBy",
+  "version": "0.0.0",
+  "description": "groupBy",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

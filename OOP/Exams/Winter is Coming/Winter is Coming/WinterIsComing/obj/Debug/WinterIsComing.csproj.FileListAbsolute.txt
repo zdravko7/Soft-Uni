@@ -1,0 +1,6 @@
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\bin\Debug\WinterIsComing.exe.config
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\bin\Debug\WinterIsComing.exe
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\bin\Debug\WinterIsComing.pdb
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\obj\Debug\WinterIsComing.csprojResolveAssemblyReference.cache
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\obj\Debug\WinterIsComing.exe
+E:\Projects\Team Projects\Winter is Coming\Winter is Coming\WinterIsComing\obj\Debug\WinterIsComing.pdb

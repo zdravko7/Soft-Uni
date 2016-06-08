@@ -1,0 +1,10 @@
+{
+  "name": "Quadratic-Equations",
+  "version": "0.0.0",
+  "description": "Quadratic Equations",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

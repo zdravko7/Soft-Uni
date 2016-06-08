@@ -1,0 +1,5 @@
+E:\Projects\C#\Soft Uni\Functional Programming\Student Class\bin\Debug\Student Class.exe.config
+E:\Projects\C#\Soft Uni\Functional Programming\Student Class\obj\Debug\Student Class.exe
+E:\Projects\C#\Soft Uni\Functional Programming\Student Class\obj\Debug\Student Class.pdb
+E:\Projects\C#\Soft Uni\Functional Programming\Student Class\bin\Debug\Student Class.exe
+E:\Projects\C#\Soft Uni\Functional Programming\Student Class\bin\Debug\Student Class.pdb

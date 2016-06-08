@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\bin\Debug\_03.Striped_Towels.exe.config
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\obj\Debug\03. Striped Towels.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\bin\Debug\_03.Striped_Towels.exe
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\bin\Debug\_03.Striped_Towels.pdb
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\obj\Debug\_03.Striped_Towels.exe
+E:\Projects\C#\Soft Uni\CSharp Basics Exam 30.08\03. Striped Towels\obj\Debug\_03.Striped_Towels.pdb

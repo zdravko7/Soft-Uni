@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\bin\Debug\_01.Series_Of_Letters.exe.config
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\bin\Debug\_01.Series_Of_Letters.exe
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\bin\Debug\_01.Series_Of_Letters.pdb
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\obj\Debug\01. Series Of Letters.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\obj\Debug\_01.Series_Of_Letters.exe
+E:\Projects\C#\Soft Uni\Regular Expressions\01. Series Of Letters\obj\Debug\_01.Series_Of_Letters.pdb

@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\obj\Debug\13. Activity Tracker.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.pdb

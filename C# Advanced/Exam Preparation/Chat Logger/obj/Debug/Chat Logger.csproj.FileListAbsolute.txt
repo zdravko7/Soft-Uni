@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\bin\Debug\Chat Logger.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\bin\Debug\Chat Logger.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\bin\Debug\Chat Logger.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\obj\Debug\Chat Logger.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\obj\Debug\Chat Logger.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Chat Logger\obj\Debug\Chat Logger.pdb

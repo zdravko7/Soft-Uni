@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{AC848845-7A61-40F6-90F4-C0FE4F558799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{3014B0A7-FF76-462B-B5AC-785283BDF1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC848845-7A61-40F6-90F4-C0FE4F558799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC848845-7A61-40F6-90F4-C0FE4F558799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC848845-7A61-40F6-90F4-C0FE4F558799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC848845-7A61-40F6-90F4-C0FE4F558799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3014B0A7-FF76-462B-B5AC-785283BDF1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3014B0A7-FF76-462B-B5AC-785283BDF1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3014B0A7-FF76-462B-B5AC-785283BDF1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3014B0A7-FF76-462B-B5AC-785283BDF1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

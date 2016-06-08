@@ -1,0 +1,6 @@
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\bin\Debug\_2.FunWithMatrices.exe.config
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\bin\Debug\_2.FunWithMatrices.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\bin\Debug\_2.FunWithMatrices.pdb
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\obj\Debug\_2.FunWithMatrices.exe
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\obj\Debug\_2.FunWithMatrices.pdb
+C:\Users\Dude\Documents\Visual Studio 2012\Projects\SoftUni Lab March 2015\2. FunWithMatrices\obj\Debug\2. FunWithMatrices.csprojResolveAssemblyReference.cache

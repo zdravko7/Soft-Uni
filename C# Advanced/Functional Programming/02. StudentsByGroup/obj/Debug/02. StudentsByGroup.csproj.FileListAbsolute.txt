@@ -1,0 +1,1 @@
+E:\Projects\C#\Soft Uni\Functional Programming\02. StudentsByGroup\bin\Debug\_02.StudentsByGroup.exe.config

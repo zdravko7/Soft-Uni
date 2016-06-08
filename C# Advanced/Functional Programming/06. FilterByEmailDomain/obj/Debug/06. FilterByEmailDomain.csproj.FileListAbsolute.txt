@@ -1,0 +1,1 @@
+E:\Projects\C#\Soft Uni\Functional Programming\06. FilterByEmailDomain\bin\Debug\_06.FilterByEmailDomain.exe.config

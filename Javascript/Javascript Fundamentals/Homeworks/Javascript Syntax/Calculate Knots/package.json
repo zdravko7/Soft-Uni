@@ -1,0 +1,10 @@
+{
+  "name": "Calculate-Knots",
+  "version": "0.0.0",
+  "description": "Calculate Knots",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

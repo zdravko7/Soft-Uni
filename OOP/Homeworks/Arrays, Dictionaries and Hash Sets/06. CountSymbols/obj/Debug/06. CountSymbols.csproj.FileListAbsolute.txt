@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\bin\Debug\_06.CountSymbols.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\obj\Debug\06. CountSymbols.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\bin\Debug\_06.CountSymbols.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\bin\Debug\_06.CountSymbols.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\obj\Debug\_06.CountSymbols.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\06. CountSymbols\obj\Debug\_06.CountSymbols.pdb

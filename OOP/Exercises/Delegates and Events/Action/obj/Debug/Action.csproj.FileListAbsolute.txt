@@ -1,0 +1,6 @@
+E:\Projects\OOP\Exercises\Delegates and Events\Action\bin\Debug\Action.exe.config
+E:\Projects\OOP\Exercises\Delegates and Events\Action\bin\Debug\Action.exe
+E:\Projects\OOP\Exercises\Delegates and Events\Action\bin\Debug\Action.pdb
+E:\Projects\OOP\Exercises\Delegates and Events\Action\obj\Debug\Action.exe
+E:\Projects\OOP\Exercises\Delegates and Events\Action\obj\Debug\Action.pdb
+E:\Projects\OOP\Exercises\Delegates and Events\Action\obj\Debug\Action.csprojResolveAssemblyReference.cache

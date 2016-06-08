@@ -1,0 +1,10 @@
+{
+  "name": "ArrayManipulator",
+  "version": "0.0.0",
+  "description": "ArrayManipulator",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

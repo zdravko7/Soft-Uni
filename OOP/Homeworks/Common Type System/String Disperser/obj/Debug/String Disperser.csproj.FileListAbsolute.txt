@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\bin\Debug\String Disperser.exe.config
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\bin\Debug\String Disperser.exe
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\bin\Debug\String Disperser.pdb
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\obj\Debug\String Disperser.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\obj\Debug\String Disperser.exe
+E:\Projects\OOP\Homeworks\Common Type System\String Disperser\obj\Debug\String Disperser.pdb

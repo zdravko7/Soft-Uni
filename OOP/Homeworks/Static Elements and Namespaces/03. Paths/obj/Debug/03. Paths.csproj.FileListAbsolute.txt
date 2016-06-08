@@ -1,0 +1,1 @@
+E:\Projects\OOP\Homeworks\Static Elements and Namespaces\03. Paths\obj\Debug\03. Paths.csprojResolveAssemblyReference.cache

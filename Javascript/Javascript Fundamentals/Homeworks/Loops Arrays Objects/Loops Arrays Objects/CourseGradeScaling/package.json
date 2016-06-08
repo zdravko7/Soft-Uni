@@ -1,0 +1,10 @@
+{
+  "name": "CourseGradeScaling",
+  "version": "0.0.0",
+  "description": "CourseGradeScaling",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

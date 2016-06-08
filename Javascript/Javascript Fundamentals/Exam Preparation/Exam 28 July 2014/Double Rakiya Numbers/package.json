@@ -1,0 +1,10 @@
+{
+  "name": "Double-Rakiya-Numbers",
+  "version": "0.0.0",
+  "description": "Double Rakiya Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dude",
+    "email": ""
+  }
+}

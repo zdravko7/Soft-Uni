@@ -1,0 +1,1 @@
+E:\Projects\C#\Soft Uni\Functional Programming\06. FilterByPhone\bin\Debug\_06.FilterByPhone.exe.config

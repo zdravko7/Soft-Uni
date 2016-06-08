@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\obj\Debug\01. FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.pdb

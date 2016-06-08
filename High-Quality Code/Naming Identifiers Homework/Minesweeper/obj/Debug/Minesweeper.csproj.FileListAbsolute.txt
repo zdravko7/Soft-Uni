@@ -1,0 +1,5 @@
+E:\Projects\High-Quality Code\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+E:\Projects\High-Quality Code\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+E:\Projects\High-Quality Code\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+E:\Projects\High-Quality Code\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+E:\Projects\High-Quality Code\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

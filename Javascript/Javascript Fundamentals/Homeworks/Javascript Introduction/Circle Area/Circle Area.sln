@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02. Circle Area", "02. Circle Area.njsproj", "{B15A3353-4221-47EE-B4FF-3BF91B9732D3}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03. DecimalToHex", "..\DecimalToHex\03. DecimalToHex.njsproj", "{61DEE978-0019-46F6-AE5C-47D47D7923B1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04. Clock", "Clock\04. Clock.njsproj", "{059CC7FA-AD35-44AB-95AA-06D6326FB51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15A3353-4221-47EE-B4FF-3BF91B9732D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15A3353-4221-47EE-B4FF-3BF91B9732D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15A3353-4221-47EE-B4FF-3BF91B9732D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15A3353-4221-47EE-B4FF-3BF91B9732D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DEE978-0019-46F6-AE5C-47D47D7923B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DEE978-0019-46F6-AE5C-47D47D7923B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DEE978-0019-46F6-AE5C-47D47D7923B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DEE978-0019-46F6-AE5C-47D47D7923B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059CC7FA-AD35-44AB-95AA-06D6326FB51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059CC7FA-AD35-44AB-95AA-06D6326FB51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059CC7FA-AD35-44AB-95AA-06D6326FB51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059CC7FA-AD35-44AB-95AA-06D6326FB51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

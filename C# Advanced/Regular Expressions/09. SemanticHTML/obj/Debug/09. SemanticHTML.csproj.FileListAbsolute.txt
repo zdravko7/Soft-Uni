@@ -1,0 +1,5 @@
+E:\Projects\C#\Soft Uni\Regular Expressions\09. SemanticHTML\bin\Debug\_09.SemanticHTML.exe.config
+E:\Projects\C#\Soft Uni\Regular Expressions\09. SemanticHTML\bin\Debug\_09.SemanticHTML.exe
+E:\Projects\C#\Soft Uni\Regular Expressions\09. SemanticHTML\bin\Debug\_09.SemanticHTML.pdb
+E:\Projects\C#\Soft Uni\Regular Expressions\09. SemanticHTML\obj\Debug\_09.SemanticHTML.exe
+E:\Projects\C#\Soft Uni\Regular Expressions\09. SemanticHTML\obj\Debug\_09.SemanticHTML.pdb

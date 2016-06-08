@@ -1,0 +1,5 @@
+E:\Projects\OOP\Exercises\Static Members and Namespaces\Exercise\bin\Debug\Exercise.exe.config
+E:\Projects\OOP\Exercises\Static Members and Namespaces\Exercise\bin\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Static Members and Namespaces\Exercise\bin\Debug\Exercise.pdb
+E:\Projects\OOP\Exercises\Static Members and Namespaces\Exercise\obj\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Static Members and Namespaces\Exercise\obj\Debug\Exercise.pdb

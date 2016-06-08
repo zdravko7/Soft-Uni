@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\bin\Debug\Terrorists Win.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\bin\Debug\Terrorists Win.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\bin\Debug\Terrorists Win.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\obj\Debug\Terrorists Win.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\obj\Debug\Terrorists Win.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Terrorists Win\obj\Debug\Terrorists Win.pdb

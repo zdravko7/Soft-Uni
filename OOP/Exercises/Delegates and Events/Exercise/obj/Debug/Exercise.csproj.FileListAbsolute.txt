@@ -1,0 +1,6 @@
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\bin\Debug\Exercise.exe.config
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\bin\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\bin\Debug\Exercise.pdb
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\obj\Debug\Exercise.exe
+E:\Projects\OOP\Exercises\Delegates and Events\Exercise\obj\Debug\Exercise.pdb

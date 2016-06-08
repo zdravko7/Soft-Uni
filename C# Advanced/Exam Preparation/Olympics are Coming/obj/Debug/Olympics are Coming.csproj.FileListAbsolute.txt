@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\bin\Debug\Olympics are Coming.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\bin\Debug\Olympics are Coming.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\bin\Debug\Olympics are Coming.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\obj\Debug\Olympics are Coming.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\obj\Debug\Olympics are Coming.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\Olympics are Coming\obj\Debug\Olympics are Coming.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe.config
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\obj\Debug\05. Longest Increasing Sequence.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.exe
+E:\Projects\C#\Soft Uni\[Homework] Advanced Arrays Lists Stacks\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.pdb

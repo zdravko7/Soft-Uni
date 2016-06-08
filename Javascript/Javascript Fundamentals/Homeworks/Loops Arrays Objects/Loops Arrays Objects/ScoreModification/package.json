@@ -1,0 +1,10 @@
+{
+  "name": "ScoreModification",
+  "version": "0.0.0",
+  "description": "ScoreModification",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

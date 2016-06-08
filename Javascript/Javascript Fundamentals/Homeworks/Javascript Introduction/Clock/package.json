@@ -1,0 +1,10 @@
+{
+  "name": "Clock",
+  "version": "0.0.0",
+  "description": "Clock",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

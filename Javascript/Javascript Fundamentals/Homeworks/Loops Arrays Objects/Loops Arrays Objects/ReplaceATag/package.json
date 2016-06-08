@@ -1,0 +1,10 @@
+{
+  "name": "ReplaceATag",
+  "version": "0.0.0",
+  "description": "ReplaceATag",
+  "main": "app.js",
+  "author": {
+    "name": "zdrav_000",
+    "email": ""
+  }
+}

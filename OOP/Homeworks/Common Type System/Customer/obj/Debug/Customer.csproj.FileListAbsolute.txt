@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Common Type System\Customer\bin\Debug\Customer.exe.config
+E:\Projects\OOP\Homeworks\Common Type System\Customer\bin\Debug\Customer.exe
+E:\Projects\OOP\Homeworks\Common Type System\Customer\bin\Debug\Customer.pdb
+E:\Projects\OOP\Homeworks\Common Type System\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Common Type System\Customer\obj\Debug\Customer.exe
+E:\Projects\OOP\Homeworks\Common Type System\Customer\obj\Debug\Customer.pdb

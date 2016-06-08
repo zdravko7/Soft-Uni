@@ -1,0 +1,1 @@
+E:\Projects\OOP\Homeworks\Static Elements and Namespaces\02. Distance Calculator\obj\Debug\02. Distance Calculator.csprojResolveAssemblyReference.cache

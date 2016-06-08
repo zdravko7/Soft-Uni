@@ -1,0 +1,6 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\obj\Debug\02. MaximalSum.csprojResolveAssemblyReference.cache
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\bin\Debug\_02.MaximalSum.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\bin\Debug\_02.MaximalSum.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\bin\Debug\_02.MaximalSum.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\obj\Debug\_02.MaximalSum.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\02. MaximalSum\obj\Debug\_02.MaximalSum.pdb

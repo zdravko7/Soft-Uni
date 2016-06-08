@@ -1,0 +1,5 @@
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\07. PhoneBook\bin\Debug\_07.PhoneBook.exe.config
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\07. PhoneBook\bin\Debug\_07.PhoneBook.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\07. PhoneBook\bin\Debug\_07.PhoneBook.pdb
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\07. PhoneBook\obj\Debug\_07.PhoneBook.exe
+E:\Projects\OOP\Homeworks\Arrays, Dictionaries and Hash Sets\07. PhoneBook\obj\Debug\_07.PhoneBook.pdb

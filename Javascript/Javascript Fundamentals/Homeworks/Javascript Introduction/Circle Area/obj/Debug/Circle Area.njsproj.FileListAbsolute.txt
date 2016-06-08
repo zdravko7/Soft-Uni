@@ -1,0 +1,2 @@
+E:\Projects\SoftUni\Front End\Javascript Basics\Homeworks\Javascript Introduction\Circle Area\obj\Debug\Circle Area.njsprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\Front End\Javascript Basics\Homeworks\Javascript Introduction\Circle Area\bin\Microsoft.NodejsTools.WebRole.dll

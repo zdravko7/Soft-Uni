@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Longest Increasing Sequence", "05. Longest Increasing Sequence\05. Longest Increasing Sequence.csproj", "{27F5ACC4-C8A4-4104-AA9A-91F4CC4CE053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythagorean Numbers", "Pythagorean Numbers\Pythagorean Numbers.csproj", "{9E680374-75C8-4DE6-8104-EB301BD4866C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F5ACC4-C8A4-4104-AA9A-91F4CC4CE053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F5ACC4-C8A4-4104-AA9A-91F4CC4CE053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F5ACC4-C8A4-4104-AA9A-91F4CC4CE053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F5ACC4-C8A4-4104-AA9A-91F4CC4CE053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E680374-75C8-4DE6-8104-EB301BD4866C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E680374-75C8-4DE6-8104-EB301BD4866C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E680374-75C8-4DE6-8104-EB301BD4866C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E680374-75C8-4DE6-8104-EB301BD4866C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

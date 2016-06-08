@@ -1,0 +1,6 @@
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\bin\Debug\The Numbers.exe.config
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\obj\Debug\The Numbers.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\bin\Debug\The Numbers.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\bin\Debug\The Numbers.pdb
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\obj\Debug\The Numbers.exe
+E:\Projects\C#\Soft Uni\Exam Preparation\The Numbers\obj\Debug\The Numbers.pdb
