@@ -1,0 +1,1 @@
+This repository contains exercises, homeworks, exam preparations and projects I have done during my stay at the Software University
